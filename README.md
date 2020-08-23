@@ -12,8 +12,10 @@ https://1drv.ms/u/s!AiQM7sVIv7fah4UKCwkj2wMbG2doUA?e=QnbK5I
 
 Benthic foraminifera training set
 
+https://1drv.ms/u/s!AiQM7sVIv7fak9E_G3u7zJi2QQG64w?e=gQaeDG
+
 ### MD972138 Training Set
 
 Planktonic foraminifera training set
 
-
+https://1drv.ms/u/s!AiQM7sVIv7fak88S6sdN95i3ey9TgQ?e=YBohfD
